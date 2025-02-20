@@ -4,4 +4,6 @@
  - 회원가입, 로그인
  - 게시판에 글 등록/임시서장/검색
 
-자바, Apache NetBeans IDE 18, MSSQL
+사용 언어: 자바
+개발 환경: Apache NetBeans IDE 18
+DB: MSSQL
