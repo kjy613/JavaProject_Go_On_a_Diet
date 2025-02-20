@@ -1,4 +1,4 @@
-# JavaProject_dietmanage
+# JavaProject_Go_On_a_Diet
 
 운동과 식이조절 등 건강을 위한 다양한 루틴을 공유할 수 있는 게시판 구현.
  - 회원가입, 로그인
